@@ -1,6 +1,9 @@
 Projeto inicial de CRUD Full Stack com Node, React e SQL.
 
-Inicialmente elabora o backend funcional do CRUD e preparado o SQL
+
+Relatório:
+
+Inicialmente elaborado todo o backend funcional do CRUD e preparado o SQL, para então fazer o commit já com ele funcional.
 
 Posteriormente subindo em partes o Frontend
 
